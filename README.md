@@ -36,26 +36,27 @@ kedua dan ```c``` sebagai bilangan ke tiga.
 Bisa dilihat pada gambar di bawah.
 
 
-'/c/Users/Afif/Pictures/Screenshots/Screenshot (4)_cr.png'
+![screenshot 4 
+_cr](https://user-images.githubusercontent.com/46735362/52369818-118cca80-2a84-11e9-976c-f6fe066dc676.png)
 
 
 Lalu masukan code untuk menentukan bilangan terbesarnya
 
 
-/c/Users/Afif/Pictures/Screenshots/2.png
+![2](https://user-images.githubusercontent.com/46735362/52369901-3f720f00-2a84-11e9-8522-e0ec546ac97f.png)
 
 
 Setelah codingannya selesai lalu jalankan codingan tersebut dan inputkan 
 angkanya, maka hasilnya akan terlihat seperti gambar dibawah ini
 
 
-/c/Users/Afif/Pictures/Screenshots/3.png
+![3](https://user-images.githubusercontent.com/46735362/52369948-57e22980-2a84-11e9-90a4-143764905579.png)
 
 
 Dan ini adalah codingan fullnya
 
 
-/c/Users/Afif/Pictures/Screenshots/5.png
+![5](https://user-images.githubusercontent.com/46735362/52370003-75af8e80-2a84-11e9-8054-dd879ef637c6.png)
 
 
 
@@ -64,7 +65,8 @@ Dan ini adalah codingan fullnya
 Ini adalah Flowchart dari coding di atas
 
 
-/c/Users/Afif/Pictures/Screenshots/4.png
+![4](https://user-images.githubusercontent.com/46735362/52370052-8c55e580-2a84-11e9-9df3-3455aaf9cd75.png)
+
 
 
 Sekian dari saya, apabila ada kekurangan mohon dimaafkan
