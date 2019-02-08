@@ -47,10 +47,24 @@ Lalu masukan code untuk menentukan bilangan terbesarnya
 
 
 Setelah codingannya selesai lalu jalankan codingan tersebut dan inputkan 
-angkanya, maka hasilnya akan terlihat seperti gambar dibawah ini
+angkanya.
+
+**Hasil pertama**
 
 
 ![3](https://user-images.githubusercontent.com/46735362/52369948-57e22980-2a84-11e9-90a4-143764905579.png)
+
+
+**Hasil kedua**
+
+
+![ketiga](https://user-images.githubusercontent.com/46735362/52494272-2a21ef80-2c00-11e9-89a5-2274d4b968bb.png)
+
+
+**Hasil Ketiga**
+
+
+![kedua](https://user-images.githubusercontent.com/46735362/52494387-71a87b80-2c00-11e9-972f-9e0d2e0b2055.png)
 
 
 Dan ini adalah codingan fullnya
