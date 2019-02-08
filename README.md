@@ -1,4 +1,4 @@
-### **ALGORITMA MENENTUKAN BILANGAN TERBESAR DARI 3 BUAH BILANGAN DENGAN PYTHON**
+### **ALGORITMA MENENTUKAN BILANGAN TERBESAR DARI TIGA BUAH BILANGAN DENGAN PYTHON**
 
 		Assalamualaikum wr wb
 
@@ -26,11 +26,17 @@ langkah-langkah penyelesaian suatu masalah. Flowchart merupakan cara
 penyajian dari suatu algoritma.
 
 
-### **Coding Menentukan Bilangan Terbesar dari 3 Buah Bilangan**
+
+### **Coding Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
 
 - **Codinng** Pertama inputkan ```a``` sebagai bilangan pertama, ```b``` 
 sebagai bilangan 
 kedua dan ```c``` sebagai bilangan ke tiga.
+
+```a = int(input("Bilangan1    : "))
+b = int(input("Bilangan2    : "))
+c = int(input("Bilangan3    : "))```
+
 Bisa dilihat pada gambar di bawah.
 
 
@@ -39,6 +45,13 @@ _cr](https://user-images.githubusercontent.com/46735362/52369818-118cca80-2a84-1
 
 
 - Lalu masukan code untuk menentukan bilangan terbesarnya
+
+```if a>b and a>c:
+    print("\nBilangan terbesar adalah :",a)
+elif b>a and b>c:
+    print("\nBilangan terbesar adalah :",b)
+else:
+    print("\nBilangan terbesar adalah :",c)```
 
 
 ![2](https://user-images.githubusercontent.com/46735362/52369901-3f720f00-2a84-11e9-8522-e0ec546ac97f.png)
@@ -53,17 +66,29 @@ inputkan angkanya.
 ![3](https://user-images.githubusercontent.com/46735362/52369948-57e22980-2a84-11e9-90a4-143764905579.png)
 
 
+Bilangan terbesar pada _Hasil Pertama_ berada pada bilangan ketiga 
+dengan 
+angka ```400```
+
+
 **Hasil kedua**
 
 
 ![ketiga](https://user-images.githubusercontent.com/46735362/52494272-2a21ef80-2c00-11e9-89a5-2274d4b968bb.png)
 
+Bilangan terbesar pada Hasil _Pertama Kedua_ pada bilangan kedua dengan
+angka ```300```
+
 
 **Hasil Ketiga**
 
 
-![kedua](https://user-images.githubusercontent.com/46735362/52494387-71a87b80-2c00-11e9-972f-9e0d2e0b2055.png)
+![ketiga](https://user-images.githubusercontent.com/46735362/52496356-acf97900-2c05-11e9-83a2-56c87107ae51.png)
 
+
+Bilangan terbesar pada _Hasil Ketiga_ berada pada bilangan ketiga 
+dengan
+angka ```200```
 
 **Dan ini adalah codingan fullnya**
 
@@ -72,7 +97,7 @@ inputkan angkanya.
 
 
 
-### **Flowchart Menentukan Bilangan Terbesar dari 3 Buah Bilangan**
+### **Flowchart Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
 
 Ini adalah Flowchart dari coding di atas
 
