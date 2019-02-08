@@ -2,6 +2,7 @@
 
 		Assalamualaikum wr wb
 
+\
 Disini saya akan memberi tahu _Coding_ dan _Flowchart_ tentang 
 **menentukan bilangan terbesar dari tiga buah bilangan**. Sebelum 
 lanjut, saya akan memberitahu tentang **Pengertian Coding dan Pengertian 
@@ -25,7 +26,9 @@ Flowchart adalah bagan-bagan yang mempunyai arus yang menggambarkan
 langkah-langkah penyelesaian suatu masalah. Flowchart merupakan cara 
 penyajian dari suatu algoritma.
 
-
+\
+\
+\
 ### **Coding Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
 
 - **Codinng** Pertama inputkan ```a``` sebagai bilangan pertama, ```b``` 
@@ -69,7 +72,8 @@ Bilangan terbesar pada _Hasil Pertama_ berada pada bilangan ketiga
 dengan 
 angka ```400```
 
-
+\
+\
 **Hasil kedua**
 
 
@@ -78,7 +82,8 @@ angka ```400```
 Bilangan terbesar pada Hasil _Pertama Kedua_ pada bilangan kedua dengan
 angka ```300```
 
-
+\
+\
 **Hasil Ketiga**
 
 
@@ -89,14 +94,16 @@ Bilangan terbesar pada _Hasil Ketiga_ berada pada bilangan ketiga
 dengan
 angka ```200```
 
-
+\
+\
 **Dan ini adalah codingan fullnya**
 
 
 ![5](https://user-images.githubusercontent.com/46735362/52370003-75af8e80-2a84-11e9-8054-dd879ef637c6.png)
 
-
-
+\
+\
+\
 ### **Flowchart Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
 
 Ini adalah Flowchart dari coding di atas
@@ -104,6 +111,7 @@ Ini adalah Flowchart dari coding di atas
 
 ![4](https://user-images.githubusercontent.com/46735362/52370052-8c55e580-2a84-11e9-9df3-3455aaf9cd75.png)
 
+\
 \
 Sekian dari saya, apabila ada kekurangan mohon dimaafkan.
 
