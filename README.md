@@ -28,7 +28,6 @@ penyajian dari suatu algoritma.
 
 \
 \
-\
 ### **Coding Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
 
 - **Codinng** Pertama inputkan ```a``` sebagai bilangan pertama, ```b``` 
@@ -45,7 +44,7 @@ Bisa dilihat pada gambar di bawah.
 ![screenshot 4 
 _cr](https://user-images.githubusercontent.com/46735362/52369818-118cca80-2a84-11e9-976c-f6fe066dc676.png)
 
-
+\
 - Lalu masukan code untuk menentukan bilangan terbesarnya
 
 ```if a>b and a>c:```\
@@ -58,7 +57,7 @@ _cr](https://user-images.githubusercontent.com/46735362/52369818-118cca80-2a84-1
 
 ![2](https://user-images.githubusercontent.com/46735362/52369901-3f720f00-2a84-11e9-8522-e0ec546ac97f.png)
 
-
+\
 - Setelah codingannya selesai lalu jalankan codingan tersebut dan 
 inputkan angkanya.
 
@@ -73,7 +72,6 @@ dengan
 angka ```400```
 
 \
-\
 **Hasil kedua**
 
 
@@ -82,7 +80,6 @@ angka ```400```
 Bilangan terbesar pada Hasil _Pertama Kedua_ pada bilangan kedua dengan
 angka ```300```
 
-\
 \
 **Hasil Ketiga**
 
@@ -95,13 +92,11 @@ dengan
 angka ```200```
 
 \
-\
 **Dan ini adalah codingan fullnya**
 
 
 ![5](https://user-images.githubusercontent.com/46735362/52370003-75af8e80-2a84-11e9-8054-dd879ef637c6.png)
 
-\
 \
 \
 ### **Flowchart Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
