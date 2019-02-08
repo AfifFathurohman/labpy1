@@ -27,7 +27,7 @@ penyajian dari suatu algoritma.
 
 ### **Coding Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
 
-- **Codinng** Pertama inputkan ```a``` sebagai bilangan pertama, ```b``` 
+- Coding Pertama inputkan ```a``` sebagai bilangan pertama, ```b``` 
 sebagai bilangan 
 kedua dan ```c``` sebagai bilangan ke tiga.
 
@@ -42,7 +42,7 @@ Bisa dilihat pada gambar di bawah.
 _cr](https://user-images.githubusercontent.com/46735362/52369818-118cca80-2a84-11e9-976c-f6fe066dc676.png)
 
 
-- Lalu masukan code untuk menentukan bilangan terbesarnya
+- Lalu masukan coding untuk menentukan bilangan terbesarnya
 
 ```if a>b and a>c:```\
     ```print("\nBilangan terbesar adalah :",a)```\
@@ -55,8 +55,8 @@ _cr](https://user-images.githubusercontent.com/46735362/52369818-118cca80-2a84-1
 ![2](https://user-images.githubusercontent.com/46735362/52369901-3f720f00-2a84-11e9-8522-e0ec546ac97f.png)
 
 
-- Setelah codingannya selesai lalu jalankan codingan tersebut dan 
-inputkan angkanya.
+- Setelah codingnya selesai lalu jalankan coding tersebut dan 
+inputkan angkanya sesuai yang diinginkan.
 
 \
 **Hasil pertama**
@@ -75,7 +75,7 @@ angka ```400```
 
 ![ketiga](https://user-images.githubusercontent.com/46735362/52494272-2a21ef80-2c00-11e9-89a5-2274d4b968bb.png)
 
-Bilangan terbesar pada Hasil _Pertama Kedua_ pada bilangan kedua dengan
+Bilangan terbesar pada _Hasil Kedua_ pada bilangan kedua dengan
 angka ```300```
 
 \
