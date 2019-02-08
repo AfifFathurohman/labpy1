@@ -67,7 +67,7 @@ inputkan angkanya.
 ![kedua](https://user-images.githubusercontent.com/46735362/52494387-71a87b80-2c00-11e9-972f-9e0d2e0b2055.png)
 
 
-Dan ini adalah codingan fullnya
+**Dan ini adalah codingan fullnya**
 
 
 ![5](https://user-images.githubusercontent.com/46735362/52370003-75af8e80-2a84-11e9-8054-dd879ef637c6.png)
