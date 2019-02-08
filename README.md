@@ -8,7 +8,6 @@ Disini saya akan memberi tahu _Coding_ dan _Flowchart_ tentang
 lanjut, saya akan memberitahu tentang **Pengertian Coding dan Pengertian 
 Flowchart**
 
-
 **Pengertian Coding**
 
 Pengertian Coding secara mudahnya yaitu menulis sekumpulan code syntax 
@@ -19,15 +18,13 @@ instruksi kepada komputer sesuai tujuan kita yang kita buat. Contoh
 coding yaitu kita melakukan penulisan code untuk membuat website, 
 aplikasi android, dan lain sebagainya.
 
-
 **Pengertian Flowcart**
 
 Flowchart adalah bagan-bagan yang mempunyai arus yang menggambarkan 
 langkah-langkah penyelesaian suatu masalah. Flowchart merupakan cara 
 penyajian dari suatu algoritma.
 
-\
-\
+
 ### **Coding Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
 
 - **Codinng** Pertama inputkan ```a``` sebagai bilangan pertama, ```b``` 
@@ -44,7 +41,7 @@ Bisa dilihat pada gambar di bawah.
 ![screenshot 4 
 _cr](https://user-images.githubusercontent.com/46735362/52369818-118cca80-2a84-11e9-976c-f6fe066dc676.png)
 
-\
+
 - Lalu masukan code untuk menentukan bilangan terbesarnya
 
 ```if a>b and a>c:```\
@@ -57,10 +54,11 @@ _cr](https://user-images.githubusercontent.com/46735362/52369818-118cca80-2a84-1
 
 ![2](https://user-images.githubusercontent.com/46735362/52369901-3f720f00-2a84-11e9-8522-e0ec546ac97f.png)
 
-\
+
 - Setelah codingannya selesai lalu jalankan codingan tersebut dan 
 inputkan angkanya.
 
+\
 **Hasil pertama**
 
 
@@ -97,8 +95,8 @@ angka ```200```
 
 ![5](https://user-images.githubusercontent.com/46735362/52370003-75af8e80-2a84-11e9-8054-dd879ef637c6.png)
 
-\
-\
+
+
 ### **Flowchart Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
 
 Ini adalah Flowchart dari coding di atas
