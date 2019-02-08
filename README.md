@@ -1,5 +1,3 @@
-Tugas Praktikum 2
-
 ### **ALGORITMA MENENTUKAN BILANGAN TERBESAR DARI 3 BUAH BILANGAN DENGAN PYTHON**
 
 		Assalamualaikum wr wb
