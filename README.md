@@ -33,9 +33,9 @@ penyajian dari suatu algoritma.
 sebagai bilangan 
 kedua dan ```c``` sebagai bilangan ke tiga.
 
-```a = int(input("Bilangan1    : "))
-b = int(input("Bilangan2    : "))
-c = int(input("Bilangan3    : "))```
+```a = int(input("Bilangan1    : "))```
+```b = int(input("Bilangan2    : "))```
+```c = int(input("Bilangan3    : "))```
 
 Bisa dilihat pada gambar di bawah.
 
@@ -46,12 +46,12 @@ _cr](https://user-images.githubusercontent.com/46735362/52369818-118cca80-2a84-1
 
 - Lalu masukan code untuk menentukan bilangan terbesarnya
 
-```if a>b and a>c:
-    print("\nBilangan terbesar adalah :",a)
-elif b>a and b>c:
-    print("\nBilangan terbesar adalah :",b)
-else:
-    print("\nBilangan terbesar adalah :",c)```
+```if a>b and a>c:```
+    ```print("\nBilangan terbesar adalah :",a)
+```elif b>a and b>c:```
+    ```print("\nBilangan terbesar adalah :",b)```
+```else:```
+    ```print("\nBilangan terbesar adalah :",c)```
 
 
 ![2](https://user-images.githubusercontent.com/46735362/52369901-3f720f00-2a84-11e9-8522-e0ec546ac97f.png)
@@ -106,6 +106,6 @@ Ini adalah Flowchart dari coding di atas
 
 
 
-Sekian dari saya, apabila ada kekurangan mohon dimaafkan
+Sekian dari saya, apabila ada kekurangan mohon dimaafkan.
 
 		Wassalamualaikum wr wb
