@@ -1,6 +1,6 @@
 ### **ALGORITMA MENENTUKAN BILANGAN TERBESAR DARI TIGA BUAH BILANGAN DENGAN PYTHON**
 
-		Assalamualaikum wr wb
+		\nAssalamualaikum wr wb
 
 Disini saya akan memberi tahu _Coding_ dan _Flowchart_ tentang 
 **menentukan bilangan terbesar dari tiga buah bilangan**. Sebelum 
@@ -29,7 +29,7 @@ penyajian dari suatu algoritma.
 
 
 
-### **Coding Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
+\n### **Coding Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
 
 - **Codinng** Pertama inputkan ```a``` sebagai bilangan pertama, ```b``` 
 sebagai bilangan 
@@ -37,7 +37,7 @@ kedua dan ```c``` sebagai bilangan ke tiga.
 
 ```a = int(input("Bilangan1    : "))```\
 ```b = int(input("Bilangan2    : "))```\
-```c = int(input("Bilangan3    : "))```\
+```c = int(input("Bilangan3    : "))```
 
 Bisa dilihat pada gambar di bawah.
 
@@ -49,11 +49,11 @@ _cr](https://user-images.githubusercontent.com/46735362/52369818-118cca80-2a84-1
 - Lalu masukan code untuk menentukan bilangan terbesarnya
 
 ```if a>b and a>c:```\
-	```print("\nBilangan terbesar adalah :",a)```\
+    ```print("\nBilangan terbesar adalah :",a)```\
 ```elif b>a and b>c:```\
-	```print("\nBilangan terbesar adalah :",b)```\
+    ```print("\nBilangan terbesar adalah :",b)```\
 ```else:```\
-	```print("\nBilangan terbesar adalah :",c)```\
+    ```print("\nBilangan terbesar adalah :",c)```
 
 
 ![2](https://user-images.githubusercontent.com/46735362/52369901-3f720f00-2a84-11e9-8522-e0ec546ac97f.png)
@@ -75,7 +75,7 @@ angka ```400```
 
 
 
-**Hasil kedua**
+\n**Hasil kedua**
 
 
 ![ketiga](https://user-images.githubusercontent.com/46735362/52494272-2a21ef80-2c00-11e9-89a5-2274d4b968bb.png)
@@ -86,7 +86,7 @@ angka ```300```
 
 
 
-**Hasil Ketiga**
+\n**Hasil Ketiga**
 
 
 ![ketiga](https://user-images.githubusercontent.com/46735362/52496356-acf97900-2c05-11e9-83a2-56c87107ae51.png)
@@ -108,7 +108,7 @@ angka ```200```
 
 
 
-### **Flowchart Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
+\n### **Flowchart Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
 
 Ini adalah Flowchart dari coding di atas
 
@@ -117,6 +117,6 @@ Ini adalah Flowchart dari coding di atas
 
 
 
-Sekian dari saya, apabila ada kekurangan mohon dimaafkan.
+\nSekian dari saya, apabila ada kekurangan mohon dimaafkan.
 
 		Wassalamualaikum wr wb
