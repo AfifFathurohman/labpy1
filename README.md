@@ -1,6 +1,6 @@
 ### **ALGORITMA MENENTUKAN BILANGAN TERBESAR DARI TIGA BUAH BILANGAN DENGAN PYTHON**
 
-		\nAssalamualaikum wr wb
+		Assalamualaikum wr wb
 
 Disini saya akan memberi tahu _Coding_ dan _Flowchart_ tentang 
 **menentukan bilangan terbesar dari tiga buah bilangan**. Sebelum 
@@ -29,7 +29,7 @@ penyajian dari suatu algoritma.
 
 
 
-\n### **Coding Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
+### **Coding Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
 
 - **Codinng** Pertama inputkan ```a``` sebagai bilangan pertama, ```b``` 
 sebagai bilangan 
@@ -75,7 +75,7 @@ angka ```400```
 
 
 
-\n**Hasil kedua**
+**Hasil kedua**
 
 
 ![ketiga](https://user-images.githubusercontent.com/46735362/52494272-2a21ef80-2c00-11e9-89a5-2274d4b968bb.png)
@@ -86,7 +86,7 @@ angka ```300```
 
 
 
-\n**Hasil Ketiga**
+**Hasil Ketiga**
 
 
 ![ketiga](https://user-images.githubusercontent.com/46735362/52496356-acf97900-2c05-11e9-83a2-56c87107ae51.png)
@@ -108,7 +108,7 @@ angka ```200```
 
 
 
-\n### **Flowchart Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
+# ### **Flowchart Menentukan Bilangan Terbesar dari Tiga Buah Bilangan**
 
 Ini adalah Flowchart dari coding di atas
 
@@ -117,6 +117,6 @@ Ini adalah Flowchart dari coding di atas
 
 
 
-\nSekian dari saya, apabila ada kekurangan mohon dimaafkan.
+Sekian dari saya, apabila ada kekurangan mohon dimaafkan.
 
 		Wassalamualaikum wr wb
