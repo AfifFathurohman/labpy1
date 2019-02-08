@@ -28,10 +28,10 @@ langkah-langkah penyelesaian suatu masalah. Flowchart merupakan cara
 penyajian dari suatu algoritma.
 
 
-### **Menentukan Bilangan Terbesar dari Tiga Buah Bilangan Menggunakan Python**
+### **Coding Menentukan Bilangan Terbesar dari 3 Buah Bilangan**
 
-**Codinng**
-Pertama inputkan ```a``` sebagai bilangan pertama, ```b``` sebagai bilangan 
+- **Codinng** Pertama inputkan ```a``` sebagai bilangan pertama, ```b``` 
+sebagai bilangan 
 kedua dan ```c``` sebagai bilangan ke tiga.
 Bisa dilihat pada gambar di bawah.
 
@@ -40,14 +40,14 @@ Bisa dilihat pada gambar di bawah.
 _cr](https://user-images.githubusercontent.com/46735362/52369818-118cca80-2a84-11e9-976c-f6fe066dc676.png)
 
 
-Lalu masukan code untuk menentukan bilangan terbesarnya
+- Lalu masukan code untuk menentukan bilangan terbesarnya
 
 
 ![2](https://user-images.githubusercontent.com/46735362/52369901-3f720f00-2a84-11e9-8522-e0ec546ac97f.png)
 
 
-Setelah codingannya selesai lalu jalankan codingan tersebut dan inputkan 
-angkanya.
+- Setelah codingannya selesai lalu jalankan codingan tersebut dan 
+inputkan angkanya.
 
 **Hasil pertama**
 
@@ -74,7 +74,7 @@ Dan ini adalah codingan fullnya
 
 
 
-**Flowchart**
+### **Flowchart Menentukan Bilangan Terbesar dari 3 Buah Bilangan**
 
 Ini adalah Flowchart dari coding di atas
 
